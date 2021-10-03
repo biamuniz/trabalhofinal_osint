@@ -24,4 +24,5 @@ Antes de começar, definimos algumas perguntas que gostaríamos de responder com
 * Verificação Geográfica: usada para conferir locais dos vídeos em Manaus;
 * Verificação Cronológica: usada para verificar o momento em que os vídeos foram feitos (se foram realmente feitos no período da crise do oxigênio).
 
-
+### Resultado
+Timeline com tweets, vídeos, notícias e posts, que pode ser vista no [link]
