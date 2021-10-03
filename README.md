@@ -17,7 +17,7 @@ Antes de começar, definimos algumas perguntas que gostaríamos de responder com
 
 ### Ferramentas e técnicas de OSINT utilizadas
 * Captura de tela com a extensão [Awesome Screenshot & Screenrecorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=pt-BR)
-* Crowdtangle
+* CrowdTangle
 * [Timeline, do KnightLab](https://timeline.knightlab.com/) para a visualização das informações
 * [YouTube DataTools](https://tools.digitalmethods.net/netvizz/youtube/)
 * Youtube Geofinder
