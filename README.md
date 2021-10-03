@@ -12,7 +12,7 @@ Antes de começar, definimos algumas perguntas que gostaríamos de responder com
 ### Origem dos dados
 * **Google**: com uso de operadores de busca, pesquisamos as primeiras notícias que saíram a respeito da crise de oxigênio Manaus e fatos relacionados à crise. Demos preferência a um jornal local do Amazonas ([A Crítica](https://www.acritica.com/)). Os resultados das buscas podem ser vistos nesta pasta;
 * **Twitter**: por meio da ferramenta de pesquisa avançada, buscamos tweets relacionados a falta de oxigênio, reações aos decretos do governar do estado do Amazonas, pedidos de ajuda. A busca `oxigênio manaus until:2021-02-01 since:2021-01-01 -filter:replies` foi realizada com código em Python. A busca de weets direcionados ao perfil do governador do Amazonas após os decretos de lockdown no dia 23/12 `(to:wilsonlimaam) until:2020-12-24 since:2020-12-23` foi feita através da ferramenta de pesquisa do próprio twitter. O código utilizado, bem como os tweets coletados na primeira query podem ser vistos [nesta pasta](https://github.com/biamuniz/trabalhofinal_osint/tree/main/dados_e_codigo);
-* **Facebook**: Usamos a ferramenta Crowdtangle para verificar qual foi a evolução das postagens e das interações no Facebook. Fizemos a pesquisa pelos termos `oxigênio AND Manaus`, de primeiro a 31 de janeiro de 2021. Mais informações, no link.
+* **Facebook**: Usamos a ferramenta Crowdtangle para verificar qual foi a evolução das postagens e das interações no Facebook. Fizemos a pesquisa pelos termos `oxigênio AND Manaus`, de primeiro a 31 de janeiro de 2021. Mais informações, no [link](https://github.com/biamuniz/trabalhofinal_osint/blob/main/dados_e_codigo/facebook_analise.md).
 * **Youtube**:
 
 ### Ferramentas e técnicas de OSINT utilizadas
