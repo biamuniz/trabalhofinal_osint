@@ -22,3 +22,5 @@ Antes de começar, definimos algumas perguntas que gostaríamos de responder com
 * Captura de tela com aextensão [Awesome Screenshot & Screenrecorder](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=pt-BR)
 * Crowdtangle
 * [Timeline, do KnightLab](https://timeline.knightlab.com/) para a visualização das informações
+* YouTube DataTools
+* Youtube Geofinder
