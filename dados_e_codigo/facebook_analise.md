@@ -1,6 +1,7 @@
 ## Facebook
 Usamos a ferramenta CrowdTangle para verificar como foi a evolução das postagens e das interações no Facebook. Fizemos a pesquisa pelos termos `oxigênio AND Manaus`, de primeiro à 31 de janeiro de 2021. Foram encontrados 28 mil posts e 8,3 milhões de interações no Facebook, com um salto no auge da crise do oxigênio, entre os dias 13 e 17 de janeiro, como mostra o gráfico abaixo:
 
+![Alt text](https://raw.githubusercontent.com/biamuniz/trabalhofinal_osint/main/media_timeline/facebook.png)
 
 As interações passaram de 158,7 mil por dia, em 13 de janeiro, para 895,1 mil, no dia 15 de janeiro:
 * 13 JANEIRO: 158,7 MIL
@@ -41,7 +42,7 @@ Exemplos de links encontrados pelo crowdtangle:
 * [Portal Folha do Amazonas informa que centenas de pessoas esperam vaga em hospital](https://www.facebook.com/1979807445437086/posts/3659777207440093)
 * [Post do vereador Lissandro Breval](https://www.facebook.com/302254110116330/posts/1377702335904830) divulga que a prefeitura está oferecendo remédios do tratamento precoce
 
-### DIA 12
+### Dia 12
 * [Página Manaus a Metrópole da Amazônia traz vídeo da fila de carros à noite para pacientes buscando atendimento no pronto-socorro no hospital 28 de agosto](https://www.facebook.com/watch/?v=416781659564366)
 * [Amazonas Notícia informa que há busca recorde por ivermectina](https://amazonasnoticias.com.br/mascaras-alcool-gel-e-ivermectina-tem-recorde-de-vendas-em-farmacias-do-grupo-tapajos/?utm_source=dlvr.it&utm_medium=facebook)
 * [Portal AM conta que o Ministério da Saúde lançou em Manaus o aplicativo TrateCov, para que a população faça seu próprio diagnóstico de Covid e busque o tratamento precoce](https://www.facebook.com/110345570411737/posts/414400603339564)
@@ -53,13 +54,13 @@ Exemplos de links encontrados pelo crowdtangle:
 * O site Estado Político informa que a prefeitura quer distribuir ivermectina na Arena Amazonas
 
 
-### DIA 13:
+### Dia 13:
 * [O portal Tucumã relata a chegada de carga de oxigênio a Manaus](https://www.portaltucuma.com.br/carga-extra-de-50-mil-metros-cubicos-de-oxigenio-desembarca-em-manaus-para-abastecer-hospitais/)
 * [Vídeo do portal Amazonas Digital mostra pacientes lado a lado com corpos de vítimas da covid em um hospital](https://www.facebook.com/watch/?v=249149269924550)
 * [Página do delegado Pablo recomenda assistir vídeo sobre como usar ivermectina](https://www.facebook.com/watch/?v=831807504219364)
 * [Página da loja de artigos para festas: Topo no Bolo divulga post com endereços para compra de cilindros de oxigênio](https://www.facebook.com/114889415711316/posts/968446407022275)
 
-Dia 14:
+### Dia 14:
 * A página Manaus de Antigamente [publica](https://www.facebook.com/423499737713490/posts/4104525609610866): “Infelizmente preciso registrar esse dia que ficará para sempre marcado como “Covid-19: Sem oxigênio, pacientes morrem em hospitais de Manaus”.
 * [Bairro Mutirão](https://www.facebook.com/450917778428661/posts/1634606183393142): Chegando oxigênio a Manaus. Glória a Deus
 * [A Crítica](https://www.facebook.com/175887955775026/posts/4064617560235360): oxigênio começa a acabar nos hospitais, familiares correm para comprar cilindros
