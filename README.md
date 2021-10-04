@@ -1,4 +1,4 @@
-# trabalhofinal_osint
+# Trabalho final: A crise de oxigênio em Manaus através de tweets, posts, vídeos e notícias
 _Repositório para documentar o trabalho final da disciplina Open Source Intelligence, do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper_
 
 **Grupo:** [Bianca Muniz](https://github.com/biamuniz), [Meyrele Torres](https://github.com/meyrele), Ricardo Grinbaum
