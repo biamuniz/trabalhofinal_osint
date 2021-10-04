@@ -26,6 +26,6 @@ Antes de começar, definimos algumas perguntas que gostaríamos de responder com
 
 ### Resultado
 
-[Timeline com tweets, vídeos, notícias e posts](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rSdCUTY3X_lSa7BlqKDsLKcJ1haucr5LO2nKXBtFhTM&font=Default&lang=en&initial_zoom=2&height=650)
+[Timeline com tweets, vídeos, notícias e posts](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1rSdCUTY3X_lSa7BlqKDsLKcJ1haucr5LO2nKXBtFhTM&font=Default&lang=pt-br&initial_zoom=2&height=650)
 
 ![Alt text](https://raw.githubusercontent.com/biamuniz/trabalhofinal_osint/main/media_timeline/TimelineJS-Embed.png)
